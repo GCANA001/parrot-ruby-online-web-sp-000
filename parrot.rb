@@ -3,5 +3,6 @@
 
 def parrot
   phrase "Squawk!"
-  puts parrot.phrase
+  puts phrase
+  return parrot
 end
